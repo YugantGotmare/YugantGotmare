@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yugant Gotmare</h1>
 <h3 align="center">Artificial Intelligence Enthusiast from India</h3>
-<img align="right" alt="AI" width="400" src="https://cdn.dribbble.com/users/205964/screenshots/6002888/scene-1-drib.gif>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugantgotmare&label=Profile%20views&color=0e75b6&style=flat" alt="yugantgotmare" /> </p>
 
