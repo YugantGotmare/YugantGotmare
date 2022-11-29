@@ -1,10 +1,10 @@
+![logo](https://github.com/YugantGotmare/YugantGotmare/blob/main/AI_banner.jpeg)
 <h1 align="center">Hi 👋, I'm Yugant Gotmare</h1>
 <h3 align="center">Artificial Intelligence Enthusiast from India</h3>
 
+<img align="right" alt="AI" width="400" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugantgotmare&label=Profile%20views&color=0e75b6&style=flat" alt="yugantgotmare" /> </p>
-
-<p align="left"> <a href="https://twitter.com/yugant_gotmare" target="blank"><img src="https://img.shields.io/twitter/follow/yugant_gotmare?logo=twitter&style=for-the-badge" alt="yugant_gotmare" /></a> </p>
 
 - 🔭 I’m currently working on **Computer Vision**
 
