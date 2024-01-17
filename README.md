@@ -1,4 +1,3 @@
-![logo](https://github.com/YugantGotmare/YugantGotmare/blob/main/AI_banner.jpeg)
 <h1 align="center">Hi 👋, I'm Yugant Gotmare</h1>
 <h3 align="center">Artificial Intelligence Enthusiast from India</h3>
 
