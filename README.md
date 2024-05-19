@@ -1,6 +1,6 @@
-<!--- Banner AAYUSH PAIGWAR--->
+<!--- Banner YUGANT GOTMARE--->
 <div id="header" align="center">
-  <img src="[https://github.com/AayushPaigwar/AayushPaigwar/blob/main/Assets/banner.png](https://github.com/YugantGotmare/YugantGotmare/blob/main/AI_banner.jpeg)"/>
+  <img src="https://github.com/YugantGotmare/YugantGotmare/blob/main/AI_banner.jpeg"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Yugant Gotmare</h1>
