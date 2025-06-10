@@ -9,8 +9,7 @@
 
 ### 🚀 Artificial Intelligence Enthusiast | 🇮🇳 India
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+%26+ML+Engineer;Always+Learning+%26+Building" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+%26+ML+Engineer;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
 
 ---
